@@ -1,3 +1,5 @@
+![validtnpage](https://user-images.githubusercontent.com/69279043/123537245-0c5f7180-d74c-11eb-8549-66035f06438f.png)
+![valispreadsheet](https://user-images.githubusercontent.com/69279043/123537244-0c5f7180-d74c-11eb-9ffd-a3576bc17444.png)
 This is a HTML registration Form along with client side validation with the following fields:
 Name : length<20 and no special characters allowed.
 Phone : length=10 and accepts only numeric value (optional to fill).
